@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Project Sdk="Microsoft.NET.Sdk">
+	<PropertyGroup>
+        <TargetFramework>net35</TargetFramework>
+        <LangVersion>9</LangVersion>
+       <!-- <Nullable>enable</Nullable>-->
+        <OutputType>Library</OutputType>
+    <Deterministic>false</Deterministic>
+    <AssemblyName>COM3D2.Lilly.TBodySkin</AssemblyName>
+    <RootNamespace>COM3D2.Lilly.TBodySkin</RootNamespace>
+  </PropertyGroup>
+	<ItemGroup>
+	  <Reference Include="0Harmony">
+	    <HintPath>G:\COM3D2_Plugin\BepInEx_x64_5.4.8.0\BepInEx\core\0Harmony.dll</HintPath>
+	  </Reference>
+	  <Reference Include="Assembly-CSharp">
+	    <HintPath>G:\repos\_lib157\Assembly-CSharp.dll</HintPath>
+	  </Reference>
+	  <Reference Include="Assembly-CSharp-firstpass">
+	    <HintPath>G:\repos\_lib157\Assembly-CSharp-firstpass.dll</HintPath>
+	  </Reference>
+	  <Reference Include="BepInEx">
+	    <HintPath>G:\COM3D2_Plugin\BepInEx_x64_5.4.8.0\BepInEx\core\BepInEx.dll</HintPath>
+	  </Reference>
+	  <Reference Include="UnityEngine">
+	    <HintPath>G:\COM3D2_Plugin\_lib\UnityEngine.dll</HintPath>
+	  </Reference>
+	</ItemGroup>
+
+</Project>

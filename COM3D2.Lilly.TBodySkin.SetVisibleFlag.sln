@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30523.141
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "COM3D2.Lilly.TBodySkin.SetVisibleFlag", "COM3D2.Lilly.TBodySkin.SetVisibleFlag\COM3D2.Lilly.TBodySkin.SetVisibleFlag.csproj", "{D26621DB-307A-4804-9EDE-78C642A62765}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D26621DB-307A-4804-9EDE-78C642A62765}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D26621DB-307A-4804-9EDE-78C642A62765}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D26621DB-307A-4804-9EDE-78C642A62765}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D26621DB-307A-4804-9EDE-78C642A62765}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E739C083-6518-461B-B612-D294972AC54B}
+	EndGlobalSection
+EndGlobal
